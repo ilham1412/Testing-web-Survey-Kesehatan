@@ -1,7 +1,21 @@
-Cara menjalankan : 
+# Cypress Automation Testing  
+## Web Survey Kesehatan Mental
 
-//npm install cypress --save-dev
-//npx cypress open
+Proyek ini berisi automation testing menggunakan **Cypress** untuk memastikan fitur-fitur pada aplikasi *Web Survey Kesehatan Mental* berjalan dengan baik.  
+Testing mencakup interaksi UI, validasi tombol, pengisian jawaban kuisioner, hingga verifikasi hasil.
+
+---
+
+## Tech Stack
+- **Cypress 13+**
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+## Cara menjalankan : 
+
+- **npm install cypress --save-dev**
+- **npx cypress open**
 
 //stack folder
 cypress/
