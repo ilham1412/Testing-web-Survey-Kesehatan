@@ -1,7 +1,7 @@
 Cara menjalankan : 
 
-npm install cypress --save-dev
-npx cypress open
+//npm install cypress --save-dev
+//npx cypress open
 
 //stack folder
 cypress/
